@@ -4,9 +4,9 @@ PRODID:-//Apple Inc.//iPhone OS 18.2.1//EN
 N:Todorovska;Daniela;;;
 FN:Daniela Todorovska
 ORG:ODMC;
-EMAIL;type=INTERNET;type=HOME;type=pref:daniela.todorovska@vp.rs
+EMAIL;type=INTERNET;type=HOME;type=pref:daniela.todorovska@odmc.mk
 TEL;type=CELL;type=VOICE;type=pref:+38978266440
-item1.ADR;type=WORK;type=pref:;;\nМирослава Крлеже 63;Скопље;;;Северна Македонија
+item1.ADR;type=WORK;type=pref:;;\nDimitrie Chupovski 12/1-1;Skoplje;;;Severna Makedonija
 item1.X-ABADR:rs
 item2.URL;type=pref:https://www.odmc.mk
 item2.X-ABLabel:_$!<HomePage>!$_
